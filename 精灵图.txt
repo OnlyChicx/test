@@ -1,4 +1,3 @@
-
 父元素{
   position：relative；
 }
@@ -14,4 +13,6 @@
   background-size：px;  /*图片大小*/   必有-----
   top：px;   必有-----
   left：px;   必有-----
+  right: px;
 }
+
