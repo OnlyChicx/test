@@ -1,1 +1,18 @@
-hello world
+父元素{
+  position：relative；
+}
+
+伪元素
+
+ .类名：：before {
+  content ：“”；    不用伪类时 不写-------
+  width：px；   必有-----
+  height：px；   必有-----
+  background ：url( 图片路径) no-repeat  x轴  y轴；   必有-----
+  position：absolute；   必有-----
+  background-size：px;  /*图片大小*/   必有-----
+  top：px;   必有-----
+  left：px;   必有-----
+  right: px;
+}
+
